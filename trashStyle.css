@@ -5,10 +5,20 @@
 }
 
 .row {
-    float: inline-start;
     padding: 10px;
     margin: 20px;
 
     
-  }
+}
 
+
+.card {
+    text-align: center;
+    align-items: center;
+    width: auto;
+}
+
+.container {
+    width: fit-content;
+
+}
