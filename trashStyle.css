@@ -1,20 +1,14 @@
-header {
-    text-align: center;
-}
-button {
-    text-decoration-color: black;
-}
+
 #title {
     text-align: center;
     
 }
 
-img {
-    float: left;
-  }
+.row {
+    float: inline-start;
+    padding: 10px;
+    margin: 20px;
 
-  table {
-      text-align: center;
-      align-items: center;
     
   }
+
